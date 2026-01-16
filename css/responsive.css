@@ -1,0 +1,60 @@
+@media screen and (max-width: 29.938em) {
+.heder-rightside{float:none;}
+.head-info-area .left .phntp{border-right:none;}
+.container{padding:30px 15px;}
+.skt-header-quote-btn{float:none; width:100%; margin:10px 0 15px 0; padding:0 0 30px 0; text-align:center;}
+.skt-header-quote-btn a{bottom:0px; top:10px;}
+.head-info-area .left .phntp{padding-right:0px;}
+.head-info-area .left .emltp{margin-left:0px; padding:0 5px 13px 5px;}
+.cols-3:nth-child(1){padding-left: 30px;}
+.cols-3:nth-child(4){padding-right:30px;}
+.cols-3{padding:5px 30px;}
+body.wp-custom-logo .logo{padding: 20px 0 10px 0 !important;}
+.inner-banner-thumb img{ min-height:inherit !important; max-height:inherit !important;}
+.inner-banner-thumb h1{font-size:25px !important;}
+}
+
+@media screen and (max-width:47.938em) and (min-width:30.000em) {
+.skt-header-quote-btn{margin-top:10px; margin-bottom:20px;}
+.skt-header-quote-btn a{bottom:0px;}
+.heder-rightside{margin-left:15px; width:auto;}
+.skt-header-quote-btn{margin-right:15px;}
+.container{padding:20px 15px;}
+.main-navigation button.menu-toggle{margin:inherit;}
+.main-navigation.toggled ul li a{padding-left:0px;}
+.main-navigation.toggled ul li li a{padding-left:10px;}
+.inner-banner-thumb img{ min-height:inherit !important; max-height:inherit !important;}
+.inner-banner-thumb h1{font-size:25px !important;}
+}
+
+@media screen and (max-width:63.938em) and (min-width:48.000em) {	
+.skt-header-quote-btn{margin: 40px 0 0 0 !important;}
+.header .container{padding:0 15px;}
+body.wp-custom-logo .logo{padding:26px 35px 16px 0 !important;}
+.inner-banner-thumb img{ min-height:inherit !important; max-height:inherit !important;}
+.inner-banner-thumb h1{font-size:25px !important;}
+}
+
+@media screen and (max-width:72.438em) and (min-width:63.250em) {
+.skt-header-quote-btn{margin: 50px 20px 0 0;}
+.inner-banner-thumb img{ min-height:inherit !important; max-height:inherit !important;}
+.inner-banner-thumb h1{font-size:25px !important;}
+}
+
+@media screen and (max-width:1017px) and (min-width:981px) {
+.skt-header-quote-btn{margin: 50px 20px 0 0;}
+.inner-banner-thumb img{ min-height:inherit !important; max-height:inherit !important;}
+}
+
+@media screen and (max-width:1169px) and (min-width:768px) {
+.main-navigation ul li a{padding: 0 18px !important;}
+.inner-banner-thumb img{ min-height:inherit !important; max-height:inherit !important;}
+.inner-banner-thumb h1{ top:90px; font-size:36px !important;} 
+}
+
+@media screen and (max-width: 767px) {
+  .inner-banner-thumb h1 {
+    top: 10px;
+    padding-left: 20px !important;
+  }
+}
